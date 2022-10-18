@@ -1,5 +1,5 @@
-## README
-
+## README &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/iitkgp.png" width="3%" />
+ 
 ## Quiz
 ### 1. Introduction
 This part of the experiment is specifically for assessment purposes. This allows for the creation of a quiz with multiple choice single answer questions.  
